@@ -53,8 +53,3 @@ The system allows customers to place orders and manage deliveries while staff ma
 - **File Handling with Object Streams**
 
 ---
-## 🛠 Datasets Used
-- **Datasets were downloaded from Kaggle**
-- **No single dataset was used rather multiple were merged manually.**
-
----
